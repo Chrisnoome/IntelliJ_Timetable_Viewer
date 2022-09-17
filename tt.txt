@@ -1,0 +1,42 @@
+Math/Bux,A/Room 11
+English/Baran,M/Room 15
+Life Science/Williams, J/Lab 2 Life Sciences
+Information Technology/Noome, C/Room 24
+Physical Science/Hove,E/Lab 1 Physical Science
+Afrikaans/Du Plessis, M/Room 25
+English/Baran,M/Room 15
+Information Technology/Noome, C/Room 24
+Math/Bux,A/Room 11
+Life Science/Williams, J/Lab 2 Life Sciences
+Afrikaans/Du Plessis, M/Room 25
+Physical Science/Hove,E/Lab 1 Physical Science
+English/Baran,M/Room 15
+Math/Bux,A/Room 11
+Life Science/Williams, J/Lab 2 Life Sciences
+Information Technology/Noome, C/Room 24
+Afrikaans/Du Plessis, M/Room 25
+Life Orientation/Bullen, A/Room 21
+Life Science/Williams, J/Lab 2 Life Sciences
+English/Baran,M/Room 15
+Physical Science/Hove,E/Lab 1 Physical Science
+Math/Bux,A/Room 11
+Information Technology/Noome, C/Room 24
+Afrikaans/Du Plessis, M/Room 25
+Afrikaans/Du Plessis, M/Room 25
+Math/Bux,A/Room 11
+Physical Science/Hove,E/Lab 1 Physical Science
+English/Baran,M/Room 15
+Religious Education/Werth, J/Room 15
+Life Science/Williams, J/Lab 2 Life Sciences
+Information Technology/Noome, C/Room 24
+Afrikaans/Du Plessis, M/Room 25
+Math/Bux,A/Room 11
+Life Orientation/Bullen, A/Room 21
+Physical Science/Hove,E/Lab 1 Physical Science
+English/Baran,M/Room 15
+English/Baran,M/Room 15
+Physical Science/Hove,E/Lab 1 Physical Science
+Math/Bux,A/Room 11
+Information Technology/Noome, C/Room 24
+English/Baran,M/Room 15
+Life Science/Williams, J/Lab 2 Life Sciences
